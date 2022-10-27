@@ -36,7 +36,7 @@ Run on localhost
 - CSS
 - JavaScript
 - Bootstrap
-- SASS
+- SCSS
 - fontawesome
 
 ## Usage
