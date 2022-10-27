@@ -7,8 +7,8 @@ This project is a web-page designed with the purpose of selling jewelry online a
 
 GitHub Repo: https://github.com/leogzz0/St.Paulia
 
-![Login Page](loginpage.png)
-![Profile Page](profilepage.png)
+![Login Page](Screen Shot 2022-10-27 at 12.33.00.png)
+![Profile Page](Screen Shot 2022-10-27 at 12.33.19.png)
 
 ## Table of Contents 
 
